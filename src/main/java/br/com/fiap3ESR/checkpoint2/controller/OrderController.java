@@ -1,7 +1,7 @@
-package br.com.fiap.checkpoint2.controller;
+package br.com.fiap3ESR.checkpoint2.controller;
 
-import br.com.fiap.checkpoint2.model.OrderModel;
-import br.com.fiap.checkpoint2.service.OrderService;
+import br.com.fiap3ESR.checkpoint2.model.OrderModel;
+import br.com.fiap3ESR.checkpoint2.service.OrderService;
 import jakarta.persistence.EntityNotFoundException;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

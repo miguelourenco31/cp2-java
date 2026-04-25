@@ -1,7 +1,7 @@
-package br.com.fiap.checkpoint2.service;
+package br.com.fiap3ESR.checkpoint2.service;
 
-import br.com.fiap.checkpoint2.model.OrderModel;
-import br.com.fiap.checkpoint2.repository.OrderRepository;
+import br.com.fiap3ESR.checkpoint2.model.OrderModel;
+import br.com.fiap3ESR.checkpoint2.repository.OrderRepository;
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.EmptyResultDataAccessException;
